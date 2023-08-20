@@ -14,8 +14,8 @@
 
         default_layer {
             bindings = <
-                &kp X
-                &kp Z
+                &mt B A
+                &kp K_WWW
             >;
         };
     };
