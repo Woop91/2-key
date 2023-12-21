@@ -36,13 +36,13 @@
 
         layer_1 {
             bindings = <
-&kp LEFT_ARROW  &kp RIGHT_ARROW
+&kp PAGE_UP  &kp PAGE_DOWN
             >;
         };
 
         layer_2 {
             bindings = <
-&sys_reset  &bt BT_CLR
+&kp PG_DN  &bt BT_CLR
             >;
         };
     };
